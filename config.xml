@@ -3,7 +3,7 @@
     <script nombre="Retrocisko">
         <enable>SI</enable>
         <link>https://gitlab.com/txemoto/retrocisko/raw/master/rcroms.pyo</link>
-        <nombre>rcroms.pyo</nombre>
+        <nombre_scr>rcroms.pyo</nombre_scr>
         <tipo>python</tipo>
         <version>1.0</version>
         <desc>Para descargar packs de roms (Solo Baño Digital)</desc>
@@ -11,7 +11,7 @@
     <script nombre="Spufy Dockers">
         <enable>1</enable>
         <link>https://raw.githubusercontent.com/Mecool-KX/SpufyDockers/master/spdockers.py</link>
-        <nombre>spdockers.py</nombre>
+        <nombre_scr>spdockers.py</nombre_scr>
         <tipo>python</tipo>
         <version>1.0</version>
         <desc>Para descargar los dockers de Spufy</desc>     
