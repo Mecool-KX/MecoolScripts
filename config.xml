@@ -1,10 +1,23 @@
 <?xml version="1.0"?>
 <data>
+    <script nombre="Spufy Dockers">
+        <enable>1</enable>
+        <link>https://raw.githubusercontent.com/Mecool-KX/ActualizarTVH/master/ActualizarTVH.sh</link>
+        <nombre_scr>ActualizarTVH.sh</nombre_scr>
+        <tipo>bash</tipo>
+        <parametros>- UI</parametros>
+        <version>0.3</version>
+        <novedades>Ver. 0.3 (2019/01/14)
+            - No se machacan los canales modificados por el usuario
+        </novedades>        
+        <desc>Para descargar los dockers de Spufy</desc>     
+    </script>
     <script nombre="Retrocisko">
         <enable>SI</enable>
         <link>https://gitlab.com/txemoto/retrocisko/raw/master/rcroms.pyo</link>
         <nombre_scr>rcroms.pyo</nombre_scr>
         <tipo>python</tipo>
+        <parametros></parametros>        
         <version>1.0</version>
         <novedades>Ver. 1.0
     - Añadido el segundo pack de ROMs de PSX
@@ -17,9 +30,9 @@
         <link>https://raw.githubusercontent.com/Mecool-KX/SpufyDockers/master/spdockers.py</link>
         <nombre_scr>spdockers.py</nombre_scr>
         <tipo>python</tipo>
+        <parametros></parametros>        
         <version>0.2</version>
-        <novedades>Ver. 0.2
-    - 2019/02/14 - ver 0.2
+        <novedades>Ver. 0.2 (2019/02/14)
             - Añadida una pausa para ver los errores del script
         </novedades>        
         <desc>Para descargar los dockers de Spufy</desc>     
