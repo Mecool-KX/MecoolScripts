@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-    <script nombre="Spufy Dockers">
+    <script nombre="Actualizar TVHeadend">
         <enable>1</enable>
         <link>https://raw.githubusercontent.com/Mecool-KX/ActualizarTVH/master/ActualizarTVH.sh</link>
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
