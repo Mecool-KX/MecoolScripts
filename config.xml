@@ -17,9 +17,10 @@
         <link>https://raw.githubusercontent.com/Mecool-KX/SpufyDockers/master/spdockers.py</link>
         <nombre_scr>spdockers.py</nombre_scr>
         <tipo>python</tipo>
-        <version>0.1</version>
-        <novedades>Ver. 0.1
-    - Versión inicial
+        <version>0.2</version>
+        <novedades>Ver. 0.2
+    - 2019/02/14 - ver 0.2
+            - Añadida una pausa para ver los errores del script
         </novedades>        
         <desc>Para descargar los dockers de Spufy</desc>     
     </script>
