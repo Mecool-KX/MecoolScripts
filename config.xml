@@ -7,8 +7,8 @@
         <tipo>bash</tipo>
         <parametros>-UI</parametros>
         <version>0.3</version>
-        <novedades>Ver. 0.3 (2019/01/14)
-            - No se machacan los canales modificados por el usuario
+        <novedades>Ver. 0.4 (2019/01/14)
+            - Añadida pausa para ver mensajes desde el launcher de scripts
         </novedades>        
         <desc>Para actualizar TVHeadend y la EPG</desc>     
     </script>
