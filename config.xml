@@ -10,7 +10,7 @@
         <novedades>Ver. 0.3 (2019/01/14)
             - No se machacan los canales modificados por el usuario
         </novedades>        
-        <desc>Para descargar los dockers de Spufy</desc>     
+        <desc>Para actualizar TVHeadend y la EPG</desc>     
     </script>
     <script nombre="Retrocisko">
         <enable>SI</enable>
