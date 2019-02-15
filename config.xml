@@ -7,7 +7,7 @@
         <tipo>bash</tipo>
         <parametros>-UI</parametros>
         <version>0.5</version>
-        <novedades>Ver. 0.5 (2019/01/14)
+        <novedades>Ver. 0.5 (2019/02/15)
             - Borrados el canal 85 mega hd y la red iptv mega
             - Añadida opción para hacer una reinstalación completa de la configuración (mediante menú)
         </novedades>        
