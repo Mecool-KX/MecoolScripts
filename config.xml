@@ -6,9 +6,10 @@
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
         <tipo>bash</tipo>
         <parametros>-UI</parametros>
-        <version>0.4</version>
-        <novedades>Ver. 0.4 (2019/01/14)
-            - Añadida pausa para ver mensajes desde el launcher de scripts
+        <version>0.5</version>
+        <novedades>Ver. 0.5 (2019/01/14)
+            - Borrados el canal 85 mega hd y la red iptv mega
+            - Añadida opción para hacer una reinstalación completa de la configuración (mediante menú)
         </novedades>        
         <desc>Para actualizar TVHeadend y la EPG</desc>     
     </script>
