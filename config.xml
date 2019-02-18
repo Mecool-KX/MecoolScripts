@@ -6,7 +6,7 @@
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
         <tipo>bash</tipo>
         <parametros></parametros>
-        <version>0.6</version>
+        <version>0.8</version>
         <novedades>Ver. 0.8 (2019/02/18)
             - Añadido parámetro para agregar cadena al final de ficheros del sistema
         </novedades>        
