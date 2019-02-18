@@ -6,10 +6,12 @@
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
         <tipo>bash</tipo>
         <parametros>-UI</parametros>
-        <version>0.5</version>
-        <novedades>Ver. 0.5 (2019/02/15)
+        <version>0.6</version>
+        <novedades>Ver. 0.6 (2019/02/18)
             - Borrados el canal 85 mega hd y la red iptv mega
             - Añadida opción para hacer una reinstalación completa de la configuración (mediante menú)
+            - Quitado el parámetro -UI. Arranque por defecto sin parámetros del menú
+            - Añadido parámetro -ACTUALIZA para actualización automática
         </novedades>        
         <desc>Para actualizar TVHeadend y la EPG</desc>     
     </script>
