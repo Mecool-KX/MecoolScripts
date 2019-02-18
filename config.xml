@@ -5,7 +5,7 @@
         <link>https://raw.githubusercontent.com/Mecool-KX/ActualizarTVH/master/ActualizarTVH.sh</link>
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
         <tipo>bash</tipo>
-        <parametros>-UI</parametros>
+        <parametros></parametros>
         <version>0.6</version>
         <novedades>Ver. 0.6 (2019/02/18)
             - Borrados el canal 85 mega hd y la red iptv mega
