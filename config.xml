@@ -32,8 +32,8 @@
         <tipo>python</tipo>
         <parametros></parametros>        
         <version>0.2</version>
-        <novedades>Ver. 0.2 (2019/02/14)
-            - Añadida una pausa para ver los errores del script
+        <novedades>Ver. 0.1 (2019/02/14)
+            - Versión inicial
         </novedades>        
         <desc>Para descargar los dockers de Spufy</desc>     
     </script>
