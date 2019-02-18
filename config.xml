@@ -7,11 +7,8 @@
         <tipo>bash</tipo>
         <parametros></parametros>
         <version>0.6</version>
-        <novedades>Ver. 0.6 (2019/02/18)
-            - Borrados el canal 85 mega hd y la red iptv mega
-            - Añadida opción para hacer una reinstalación completa de la configuración (mediante menú)
-            - Quitado el parámetro -UI. Arranque por defecto sin parámetros del menú
-            - Añadido parámetro -ACTUALIZA para actualización automática
+        <novedades>Ver. 0.7 (2019/02/18)
+            - Corregidos errores
         </novedades>        
         <desc>Para actualizar TVHeadend y la EPG</desc>     
     </script>
