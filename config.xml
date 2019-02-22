@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <data>
-    <script nombre="ACTUALIZATVH">
+    <script nombre="ACTUALIZARTVH">
         <nombre>Actualizar TVHeadend</nombre>
         <enable>si</enable>
         <link>https://raw.githubusercontent.com/Mecool-KX/ActualizarTVH/master/ActualizarTVH.sh</link>
