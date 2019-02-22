@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <data>
-    <script nombre="Actualizar TVHeadend">
+    <script nombre="ACTUALIZATVH">
+        <nombre>Actualizar TVHeadend</nombre>
         <enable>si</enable>
         <link>https://raw.githubusercontent.com/Mecool-KX/ActualizarTVH/master/ActualizarTVH.sh</link>
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
@@ -12,7 +13,8 @@
         </novedades>        
         <desc>Para actualizar TVHeadend y la EPG</desc>     
     </script>
-    <script nombre="Retrocisko">
+    <script nombre="RETROCISKO">
+        <nombre>Retrocisko</nombre>
         <enable>SI</enable>
         <link>https://gitlab.com/txemoto/retrocisko/raw/master/rcroms.pyo</link>
         <nombre_scr>rcroms.pyo</nombre_scr>
@@ -25,7 +27,8 @@
         </novedades>
         <desc>Para descargar packs de roms (Solo Baño Digital)</desc>
     </script>
-    <script nombre="Spufy Dockers">
+    <script nombre="SPUFYDOCKERS">
+        <nombre>Spufy Dockers</nombre>
         <enable>1</enable>
         <link>https://raw.githubusercontent.com/Mecool-KX/SpufyDockers/master/spdockers.py</link>
         <nombre_scr>spdockers.py</nombre_scr>
