@@ -16,7 +16,7 @@
     <script nombre="RETROCISKO">
         <nombre>Retrocisko</nombre>
         <enable>SI</enable>
-        <link>https://gitlab.com/txemoto/retrocisko/raw/master/rcroms.pyo</link>
+        <link>https://github.com/Mecool-KX/MecoolScripts/blob/master/rcroms.pyo?raw=true</link>
         <nombre_scr>rcroms.pyo</nombre_scr>
         <tipo>python</tipo>
         <parametros></parametros>        
