@@ -22,10 +22,9 @@
         <parametros></parametros>        
         <version>1.1</version>
         <novedades>Ver. 1.1
-    - Añadido el segundo pack de ROMs de PSX
-    - Corregidos errores
+    - Actualizada nueva ruta de fichero de configuración
         </novedades>
-        <desc>Actualizada nueva ruta de fichero de configuración</desc>
+        <desc>Para descargar packs de roms (Solo Baño Digital)</desc>
     </script>
     <script nombre="SPUFYDOCKERS">
         <nombre>Spufy Dockers</nombre>
