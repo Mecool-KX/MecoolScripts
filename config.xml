@@ -34,9 +34,9 @@
         <nombre_scr>spdockers.py</nombre_scr>
         <tipo>python</tipo>
         <parametros></parametros>        
-        <version>0.2</version>
-        <novedades>Ver. 0.1 (2019/02/14)
-            - Versión inicial
+        <version>0.3</version>
+        <novedades>Ver. 0.3 (2019/02/28)
+            - Corregidos errores
         </novedades>        
         <desc>Para descargar los dockers de Spufy</desc>     
     </script>
