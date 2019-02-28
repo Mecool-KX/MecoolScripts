@@ -30,7 +30,7 @@
     <script nombre="SPUFYDOCKERS">
         <nombre>Spufy Dockers</nombre>
         <enable>1</enable>
-        <link>https://raw.githubusercontent.com/Mecool-KX/SpufyDockers/master/spdockers.py</link>
+        <link>https://raw.githubusercontent.com/Mecool-KX/SpufyDockers/master/spdockers.pyo</link>
         <nombre_scr>spdockers.py</nombre_scr>
         <tipo>python</tipo>
         <parametros></parametros>        
