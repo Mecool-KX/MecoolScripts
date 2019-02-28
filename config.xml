@@ -7,7 +7,7 @@
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
         <tipo>bash</tipo>
         <parametros></parametros>
-        <version>0.9</version>
+        <version>0.91</version>
         <novedades>Ver. 0.91 (2019/03/01)
             - Cambiada nomenclatura de ficheros .zip, .ver y Cambios
         </novedades>        
