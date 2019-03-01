@@ -20,10 +20,9 @@
         <nombre_scr>rcroms.pyo</nombre_scr>
         <tipo>python</tipo>
         <parametros></parametros>        
-        <version>1.1</version>
-        <novedades>Ver. 1.1 (2019/03/01)
-    - Añadida la opción para instalar Retrocisko
-    - Corregidos errores
+        <version>1.02</version>
+        <novedades>Ver. 1.02 (2019/03/01)
+    - Comprobación correcta de sistema en os-release
         </novedades>
         <desc>Para descargar packs de roms</desc>
     </script>
