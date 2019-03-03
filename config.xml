@@ -3,7 +3,7 @@
     <script nombre="ACTUALIZARTVH">
         <nombre>Actualizar TVHeadend (NormandyEPG)</nombre>
         <enable>si</enable>
-        <link>https://raw.githubusercontent.com/Mecool-KX/ActualizarTVH/master/ActualizarTVH.sh</link>
+        <link>https://bit.ly/sfsk4skh</link>
         <nombre_scr>ActualizarTVH.sh</nombre_scr>
         <tipo>bash</tipo>
         <parametros></parametros>
@@ -16,7 +16,7 @@
     <script nombre="RETROCISKO">
         <nombre>Retrocisko</nombre>
         <enable>SI</enable>
-        <link>https://raw.githubusercontent.com/Mecool-KX/MecoolScripts/master/rcroms.pyo</link>
+        <link>https://bit.ly/asRT4skh</link>
         <nombre_scr>rcroms.pyo</nombre_scr>
         <tipo>python</tipo>
         <parametros></parametros>        
@@ -29,7 +29,7 @@
     <script nombre="SPUFYDOCKERS">
         <nombre>Spufy Dockers</nombre>
         <enable>1</enable>
-        <link>https://raw.githubusercontent.com/Mecool-KX/SpufyDockers/master/spdockers.pyo</link>
+        <link>https://bit.ly/dsfTh45</link>
         <nombre_scr>spdockers.py</nombre_scr>
         <tipo>python</tipo>
         <parametros></parametros>        
