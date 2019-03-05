@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: latin-1 -*-
 
-import os, sys
+import os, sys 
 import urllib
 import fcntl, socket, struct
 import time
